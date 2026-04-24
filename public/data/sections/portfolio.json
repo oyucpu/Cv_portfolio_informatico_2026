@@ -67,22 +67,15 @@
                         "links": [
                             {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"}
                         ],
-                        "screenshots": [
-                            "images/pictures/screenshot-demo-portrait-1.png",
-                            "images/pictures/screenshot-demo-portrait-2.png",
-                            "images/pictures/screenshot-demo-portrait-3.png",
-                            "images/pictures/screenshot-demo-portrait-4.png",
-                            "images/pictures/screenshot-demo-portrait-5.png",
-                            "images/pictures/screenshot-demo-portrait-6.png"
-                        ],
-                        "screenshotsAspectRatio": "9:16",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
                     },
                     "locales": {
                         "es": {
-                            "title": "MailMaster",
-                            "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
-                            "tags": ["Flutter", "Correo", "Comunicación"]
+                            "title": "Portfolio_Terminal",
+                            "text": "Una terminal construido con <b>HTML, CSS y JS</b>, que ofrece comunicación eficiente con el usuario y <b>te da información</b>.",
+                            "tags": ["Porfolio", "Web", "Habilidades"]
                         }
                     }
                 },
