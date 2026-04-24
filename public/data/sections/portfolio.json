@@ -46,8 +46,8 @@
                             "images/pictures/screenshot-demo-landscape-4.png",
                             "images/pictures/screenshot-demo-landscape-5.png"
                         ],
-                        "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=PnV8p1xm7-o"
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
                     },
                     "locales": {
                         "es": {
