@@ -65,7 +65,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"}
+                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_link", "faIcon": "fa-brands fa-link"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
