@@ -101,6 +101,106 @@
                             "tags": []
                         }
                     }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-brands fa-apple",
+                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
+                    "dateStart": {"year": 2022, "month": 12},
+                    "dateEnd": {"now": true},
+                    "locales": {
+                        "es": {
+                            "title": "Desarrollador {{Senior Backend}}",
+                            "province": "California",
+                            "country": "EE. UU.",
+                            "institution": "Apple Inc",
+                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                            "list": [
+                                "Seguridad",
+                                "Escalabilidad para manejar millones de usuarios a nivel global",
+                                "Desarrollo de APIs RESTful",
+                                "Optimización del rendimiento de bases de datos con PostgreSQL",
+                                "Creación de servicios con Swift, PHP y GraphQL"
+                            ],
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-brands fa-apple",
+                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
+                    "dateStart": {"year": 2022, "month": 12},
+                    "dateEnd": {"now": true},
+                    "locales": {
+                        "es": {
+                            "title": "Desarrollador {{Senior Backend}}",
+                            "province": "California",
+                            "country": "EE. UU.",
+                            "institution": "Apple Inc",
+                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                            "list": [
+                                "Seguridad",
+                                "Escalabilidad para manejar millones de usuarios a nivel global",
+                                "Desarrollo de APIs RESTful",
+                                "Optimización del rendimiento de bases de datos con PostgreSQL",
+                                "Creación de servicios con Swift, PHP y GraphQL"
+                            ],
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-brands fa-apple",
+                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
+                    "dateStart": {"year": 2022, "month": 12},
+                    "dateEnd": {"now": true},
+                    "locales": {
+                        "es": {
+                            "title": "Desarrollador {{Senior Backend}}",
+                            "province": "California",
+                            "country": "EE. UU.",
+                            "institution": "Apple Inc",
+                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                            "list": [
+                                "Seguridad",
+                                "Escalabilidad para manejar millones de usuarios a nivel global",
+                                "Desarrollo de APIs RESTful",
+                                "Optimización del rendimiento de bases de datos con PostgreSQL",
+                                "Creación de servicios con Swift, PHP y GraphQL"
+                            ],
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-brands fa-apple",
+                    "faIconColors": {"bg": "#111", "fill": "#EEE"},
+                    "dateStart": {"year": 2022, "month": 12},
+                    "dateEnd": {"now": true},
+                    "locales": {
+                        "es": {
+                            "title": "Desarrollador {{Senior Backend}}",
+                            "province": "California",
+                            "country": "EE. UU.",
+                            "institution": "Apple Inc",
+                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                            "list": [
+                                "Seguridad",
+                                "Escalabilidad para manejar millones de usuarios a nivel global",
+                                "Desarrollo de APIs RESTful",
+                                "Optimización del rendimiento de bases de datos con PostgreSQL",
+                                "Creación de servicios con Swift, PHP y GraphQL"
+                            ],
+                            "tags": []
+                        }
+                    }
                 }
             ]
         }
