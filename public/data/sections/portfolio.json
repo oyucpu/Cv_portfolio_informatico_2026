@@ -19,11 +19,11 @@
                     "category_all": "Todo",
                     "category_portfolio_web": "Portfolio Web",
                     "category_ilustración": "Ilustraciones",
-                    "category_utilities": ""
+                    "category_juegos": "Juegos"
                 }
             },
             "settings": {
-                "categorize_by": ["category_portfolio_web", "category_ilustración"],
+                "categorize_by": ["category_portfolio_web", "category_ilustración","category_juegos"],
                 "order_items_by": "id",
                 "order_items_sort": "asc"
             },
