@@ -82,7 +82,7 @@
                     "id": 1,
                     "label": "",
                     "link": {"href": "", "tooltipString": "open_website"},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -96,7 +96,7 @@
                     "id": 2,
                     "label": "",
                     "link": {"href":"", "tooltipString": "open_website"},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -110,7 +110,7 @@
                     "id": 3,
                     "label": "",
                     "link": {"href": "", "tooltipString": ""},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -124,7 +124,7 @@
                     "id": 4,
                     "label": "",
                     "link": {"href": "", "tooltipString": "open_website"},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
