@@ -36,7 +36,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://www.behance.net/gallery/202567479/Portfolio-2024", "tooltipString": "see_on_github", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://www.behance.net/gallery/202567479/Portfolio-2024", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
@@ -58,7 +58,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_link", "faIcon": "fa-brands fa-link"}
+                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_link", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
@@ -80,7 +80,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://www.behance.net/gallery/177525633/PortFolio", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-link"}
+                            {"href": "https://www.behance.net/gallery/177525633/PortFolio", "tooltipString": "see_on_webside", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
