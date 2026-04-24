@@ -117,6 +117,28 @@
                             "tags": ["Caricaturas", "Porfolio", "Ilustraciones"]
                         }
                     }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_juegos",
+                    "img": "images/pictures/ilu.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://soltando-el-amor.vercel.app/", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Juegos y páginas de web del desamor",
+                            "text": "Varios juegos del desamor.",
+                            "tags": ["Ilustraciones", "Juegos", "Portafolio"]
+                        }
+                    }
                 }
             ]
         }
