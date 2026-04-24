@@ -6,17 +6,20 @@
 
     "statusCircleVisible": true,
     "statusCircleVariant": "available",
-    "statusCircleHoverMessage": "status_message_available_for_freelance",
+    "statusCircleHoverMessage": "status_message_available_for_work",
 
     "locales": {
         "es": {
             "localized_name": "Antonio Oyuela",
             "localized_name_stylized": " [[Antonio {{Oyuela}}]]",
-            "status_message_available_for_freelance": "¡Disponible para trabajar!",
+            "status_message_available_for_work": "¡Disponible para trabajar!",
             "roles": [
-                "Desarrollador Backend",
+                "Creador de contenido",
+                "creativo informático",
+                "Técnico en Informático",
+                "Técnico en Microinformática",
+                "Técnico de Multimedia",
                 "Desarrollador Frontend",
-                "Ingeniero DevOps",
                 "Diseñador UX"
             ]
         }
