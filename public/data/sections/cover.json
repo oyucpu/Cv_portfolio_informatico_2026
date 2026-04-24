@@ -82,7 +82,7 @@
                     "id": 1,
                     "label": "",
                     "link": {"href": "", "tooltipString": "open_website"},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -96,7 +96,7 @@
                     "id": 2,
                     "label": "",
                     "link": {"href":"", "tooltipString": "open_website"},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -110,7 +110,7 @@
                     "id": 3,
                     "label": "",
                     "link": {"href": "", "tooltipString": ""},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -124,7 +124,7 @@
                     "id": 4,
                     "label": "",
                     "link": {"href": "", "tooltipString": "open_website"},
-                    "img": "",
+                    "img": "images/pictures/udemy.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -178,14 +178,14 @@
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-solid fa-chart-line",
+                    "faIcon": "fa-solid fa-heart",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {
-                            "title": "",
+                            "title": "Aprendizaje {{continuo}}",
                             "text": "Aprendiendo nuevas habilidades."
                         }
                     }
@@ -228,7 +228,7 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {
-                            "title": "Música y Podcasts",
+                            "title": "Música y {{Podcasts}}",
                             "text": "Disfrutamiento de buena música y podcasts."
                         }
                     }
