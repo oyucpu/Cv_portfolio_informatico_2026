@@ -37,13 +37,6 @@
             "faIcon": "fa-solid fa-award"
         },
         {
-            "id": "skills",
-            "categoryId": "showcase",
-            "jsonPath": "/data/sections/skills.json",
-            "faIcon": "fa-solid fa-tools"
-        },
-
-        {
             "id": "contact",
             "categoryId": "more",
             "jsonPath": "/data/sections/contact.json",
