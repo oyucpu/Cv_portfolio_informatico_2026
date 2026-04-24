@@ -78,24 +78,6 @@
                     "dateStart": {"year": 2025, "month": 3},
                     "dateEnd": {"year": 2025, "month": 10},
                     "locales": {
-                        "en": {
-    "title": "Professional Certificate in Object-Oriented Programming and Relational Databases",
-    "province": "Madrid (Madrid)",
-    "country": "Spain",
-    "institution": "Cursos 0,0",
-    "text": "Training focused on application development using object-oriented programming and relational database management.",
-    "list": [
-        "Object-Oriented Programming (OOP)",
-        "Application development using languages such as Java or Python",
-        "Design and modeling of relational databases",
-        "Use of SQL for queries, inserts, and updates",
-        "Database management (MySQL, PostgreSQL)",
-        "Integration between applications and databases",
-        "Debugging and testing of applications",
-        "Application of software development best practices"
-    ],
-    "tags": ["Programming", "OOP", "Java", "Python", "SQL", "Databases", "Software Development", "Backend"]
-},
                         "es": {
                             "title": "{{Certificado de Profesionalidad}} en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales",
                             "province": "Madrid (Madrid)",
@@ -126,24 +108,6 @@
                     "dateStart": {"year": 2024, "month": 2},
                     "dateEnd": {"year": 2024, "month": 9},
                     "locales": {
-                        "en": {
-                            "title": "Professional Certificate in Web Application Development",
-                            "province": "Madrid (Madrid)",
-                            "country": "Spain",
-                            "institution": "Academia Colón (Madrid)",
-                            "text": "Completed in 2024, specialization in:",
-                            "list": [
-                                "Design and structuring of web pages using HTML and CSS",
-                                "Responsive web layout adapted to different devices",
-                                "Basic programming with JavaScript",
-                                "Use of Content Management Systems (CMS) such as WordPress",
-                                "Publishing and maintenance of websites",
-                                "Basic SEO optimization for web pages",
-                                "Integration of multimedia content into websites",
-                                "Validation and testing of web functionality"
-                            ],
-                            "tags": ["Web Development", "HTML", "PHP", "JSON", "CSS", "JavaScript", "WordPress", "Web Design", "Responsive Design", "Basic SEO"]
-},
                         "es": {
                             "title": "{{Certificado de Profesionalidad}} en Desarrollo de Aplicaciones con Tecnológias Web",
                             "province": "Madrid (Madrid)",
