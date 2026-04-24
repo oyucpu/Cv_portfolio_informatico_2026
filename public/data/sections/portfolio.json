@@ -30,13 +30,13 @@
             "items": [
                 {
                     "id": 1,
-                    "categoryId": "category_utilities",
+                    "categoryId": "category_ilustración",
                     "img": "images/pictures/ilu.jpeg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://www.behance.net/gallery/202567479/Portfolio-2024", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://www.behance.net/gallery/202567479/Portfolio-2024", "tooltipString": "see_on_github", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
