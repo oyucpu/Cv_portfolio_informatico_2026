@@ -15,7 +15,8 @@
             "id": 1,
             "component": "ArticleCards",
             "locales": {
-                "es": { "title": " Mis futuras Certificaciones" }
+                "en": { "title": "Futures Certifications" },
+                "es": { "title": "Futuras Certificaciones" }
             },
             "settings": {
                 "order_items_by": "id",
@@ -24,29 +25,30 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "",
+                    "img": "images/pictures/LE.jpg",
                     "faIcon": "fa-solid fa-life-ring",
                     "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
-                    "date": {"year": 2020, "month": 12},
-                    "link": {"href": "https://www.linuxfoundation.org/", "tooltipString": "see_certification"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
                     "locales": {
+
                         "es": {
-                            "text": "Administrador de Kubernetes Certificado (CKA)"
+                        	"title": "Linux Essentials",
+                            "text": "Certified Linux Essentials (LE)"
                         }
                     }
                 },
 
                 {
                     "id": 2,
-                    "img": "",
+                    "img": "images/pictures/gcp.webp",
                     "faIcon": "fa-brands fa-aws",
                     "faIconColors": {"bg": "#FFD700", "fill": "#111"},
-                    "date": {"year": 2021, "month": 5},
-                    "link": {"href": "https://www.aws.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
                     "locales": {
+
                         "es": {
-                            "title": "{{Amazon}} Web Services",
-                            "text": "Arquitecto de Soluciones Certificado por AWS - Asociado"
+                        	"title": "Google Platafom Colud",
+                            "text": "Arquitecto de Nube Profesional Certificado por Google Cloud"
                         }
                     }
                 },
@@ -56,11 +58,11 @@
                     "img": "",
                     "faIcon": "fa-brands fa-java",
                     "faIconColors": {"bg": "#007396", "fill": "#EEE"},
-                    "date": {"year": 2022, "month": 5},
-                    "link": {"href": "https://www.oracle.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
                     "locales": {
+
                         "es": {
-                            "title": "{{Oracle}}",
+                        	"title": "Java",
                             "text": "Desarrollador Java Certificado"
                         }
                     }
@@ -71,18 +73,47 @@
                     "img": "",
                     "faIcon": "fa-solid fa-database",
                     "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
-                    "date": {"year": 2023, "month": 8},
-                    "link": {"href": "https://www.mongodb.com/", "tooltipString": "see_certification"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
                     "locales": {
+
                         "es": {
-                            "title": "{{MongoDB}}",
+                        	 "title": "{{MongoDB}}",
                             "text": "Desarrollador Certificado de MongoDB"
+                        }
+                    }
+                },
+                
+                {
+                    "id": 5,
+                    "img": "images/pictures/asow.png",
+                    "faIcon": "fa-solid fa-cubes",
+                    "faIconColors": {"bg": "#0db7ed", "fill": "#111"},
+                    "link": {"href": "", "tooltipString": "see_certification"},
+                    "locales": {
+
+                        "es": {
+                        	 "title": "{{Microsoft}} Certified Associate",
+                            "text": "Asociado Certificado de Microsoft (MCA)"
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "img": "images/pictures/asoadobe.png",
+                    "faIcon": "fa-solid fa-cloud",
+                    "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
+                    "link": {"href": "", "tooltipString": ""},
+                    "locales": {
+
+                        "es": {
+                        	"title": "{{Adobe}} Certified Associate",
+                            "text": "Asociado Certificado de Adobe"
                         }
                     }
                 }
             ]
         },
-
         {
             "id": 2,
             "component": "ArticleThread",
