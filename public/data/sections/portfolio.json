@@ -139,6 +139,28 @@
                             "tags": ["Ilustraciones", "Juegos", "Portafolio"]
                         }
                     }
+                },
+                {
+                "id": 6,
+                    "categoryId": "category_juegos",
+                    "img": "images/pictures/g.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://juegos-173.vercel.app/", "tooltipString": "see_webside", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "es": {
+                            "title": "Juegos y páginas de web del desamor",
+                            "text": "Varios juegos del desamor.",
+                            "tags": ["Ilustraciones", "Juegos", "Portafolio"]
+                        }
+                    }
                 }
             ]
         }
