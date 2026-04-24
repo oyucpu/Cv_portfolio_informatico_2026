@@ -34,24 +34,6 @@
                     "dateStart": {"year": 2025, "month": 10},
                     "dateEnd": {"year": 2025, "month": 11},
                     "locales": {
-                        "en": {
-"title": "Professional Certificate in Information Security",
-    "province": "Madrid (Madrid)",
-    "country": "Spain",
-    "institution": "Grupo Aspasia",
-    "text": "I obtained a [[degree in Computer Science]], with a focus on algorithms, data structures, software engineering, and web development. I gained practical experience through various programming projects, coding bootcamps, and collaborative team development activities.",
-    "list": [
-        "Implementation of information security policies",
-        "Vulnerability assessment and security auditing",
-        "Configuration and management of firewalls",
-        "Intrusion detection and prevention systems (IDS/IPS)",
-        "Application of cryptographic techniques for data protection",
-        "Risk analysis and management in IT systems",
-        "Security monitoring and incident response",
-        "Protection of systems and networks against cyber threats"
-    ],
-    "tags": ["Cybersecurity", "Information Security", "Vulnerability Analysis", "Risk Management", "Firewalls", "Intrusion Detection", "Cryptography", "Data Protection"]
-                        },
                         "es": {
                             "title": "{{Certificado de Profesionalidad}} en Seguridad Informática",
                             "province": "Madrid (Madrid)",
