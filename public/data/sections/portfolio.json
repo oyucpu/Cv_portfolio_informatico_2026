@@ -17,7 +17,7 @@
             "locales": {
                 "es": {
                     "category_all": "Todo",
-                    "category_portfolio_web": "Portfolios Webs",
+                    "category_portfolio_web": "Portfolio Web",
                     "category_web": "Web",
                     "category_utilities": "Utilidades"
                 }
@@ -60,13 +60,12 @@
                 {
                     "id": 2,
                     "categoryId": "category_portfolio_web",
-                    "img": "images/pictures/portfolio-po.png",
+                    "img": "images/pictures/po.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"}
                         ],
                         "screenshots": [
                             "images/pictures/screenshot-demo-portrait-1.png",
