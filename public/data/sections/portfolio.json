@@ -96,13 +96,13 @@
                 },
                 {
                     "id": 4,
-                    "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-1.png",
+                    "categoryId": "category_ilustración",
+                    "img": "images/pictures/ilu.jpeg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://cash.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://www.behance.net/gallery/239149677/Portfolio-2026", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
 
@@ -112,9 +112,9 @@
                     },
                     "locales": {
                         "es": {
-                            "title": "SmartCash",
-                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
-                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                            "title": "Portfolio de Ilustraciones",
+                            "text": "Un sitio web donde muestro mis ilustraciones académicas.",
+                            "tags": ["Caricaturas", "Porfolio", "Ilustraciones"]
                         }
                     }
                 },
