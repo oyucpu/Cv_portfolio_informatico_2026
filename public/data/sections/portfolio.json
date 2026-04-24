@@ -51,6 +51,7 @@
                     },
                     "locales": {
                         "es": {
+                            "title": "DataStream API",
                             "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
                             "tags": ["API", "REST", "Backend"]
                         }
@@ -80,6 +81,7 @@
                     },
                     "locales": {
                         "es": {
+                            "title": "MailMaster",
                             "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
                             "tags": ["Flutter", "Correo", "Comunicación"]
                         }
