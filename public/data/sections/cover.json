@@ -178,14 +178,14 @@
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-solid fa-chart-line",
+                    "faIcon": "fa-solid fa-heart",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {
-                            "title": "",
+                            "title": "Aprendizaje continuo",
                             "text": "Aprendiendo nuevas habilidades."
                         }
                     }
