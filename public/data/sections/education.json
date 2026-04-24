@@ -105,6 +105,98 @@
                             "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
                         }
                     }
+                },
+                {
+                    "id": 5,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 6},
+                    "locales": {
+                        "es": {
+                            "title": "{{Doctorado}} en Ciencias de la Computación",
+                            "province": "Massachusetts",
+                            "country": "EE. UU.",
+                            "institution": "Universidad de Harvard",
+                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "list": [
+                                "Visión por computadora",
+                                "Investigación innovadora en IA",
+                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                            ],
+                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 6},
+                    "locales": {
+                        "es": {
+                            "title": "{{Doctorado}} en Ciencias de la Computación",
+                            "province": "Massachusetts",
+                            "country": "EE. UU.",
+                            "institution": "Universidad de Harvard",
+                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "list": [
+                                "Visión por computadora",
+                                "Investigación innovadora en IA",
+                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                            ],
+                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 6},
+                    "locales": {
+                        "es": {
+                            "title": "{{Doctorado}} en Ciencias de la Computación",
+                            "province": "Massachusetts",
+                            "country": "EE. UU.",
+                            "institution": "Universidad de Harvard",
+                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "list": [
+                                "Visión por computadora",
+                                "Investigación innovadora en IA",
+                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                            ],
+                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "img": "images/pictures/timeline-place-harvard.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 6},
+                    "locales": {
+                        "es": {
+                            "title": "{{Doctorado}} en Ciencias de la Computación",
+                            "province": "Massachusetts",
+                            "country": "EE. UU.",
+                            "institution": "Universidad de Harvard",
+                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "list": [
+                                "Visión por computadora",
+                                "Investigación innovadora en IA",
+                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                            ],
+                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                        }
+                    }
                 }
             ]
         }
