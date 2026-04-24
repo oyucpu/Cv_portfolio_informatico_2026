@@ -702,7 +702,7 @@
                 },
                 {
                     "id": 1,
-                    "img": "images/flags/es-es.png",
+                    "img": "images/flags/es.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "date": {"year": null, "month": null},
