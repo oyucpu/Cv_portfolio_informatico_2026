@@ -185,7 +185,7 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {
-                            "title": "Aprendizaje continuo",
+                            "title": "Aprendizaje {{continuo}}",
                             "text": "Aprendiendo nuevas habilidades."
                         }
                     }
@@ -228,7 +228,7 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {
-                            "title": "Música y Podcasts",
+                            "title": "Música y {{Podcasts}}",
                             "text": "Disfrutamiento de buena música y podcasts."
                         }
                     }
