@@ -182,24 +182,6 @@
             "month": 5
           },
           "locales": {
-            "en": {
-                  "title": "Professional Certificate in Operation of Voice and Data Communication Systems",
-                  "province": "Madrid (Madrid)",
-                  "country": "Spain",
-                  "institution": "Grupo Aspasia",
-                  "text": "Training focused on the operation, maintenance, and support of voice and data communication systems in professional environments.",
-                  "list": [
-                      "Installation and configuration of voice and data communication systems",
-                      "Management of network infrastructure and connectivity",
-                      "Monitoring and maintenance of communication systems",
-                      "Troubleshooting network and communication issues",
-                      "Configuration of switching and routing basics",
-                      "Implementation of security measures in communication systems",
-                      "Support for telecommunication services and users",
-                      "Performance analysis and optimization of network systems"
-    ],
-            "tags": ["Networking", "Telecommunications", "Voice and Data", "Network Administration", "Technical Support", "IT Infrastructure","Routing and Switching", "Network Security"]
-},
             "es": {
               "title": "{{Certificado de Profesionalidad}} en Operación de Sistemas de Comunicación de Voz y Datos",
               "province": "Madrid (Madrid)",
