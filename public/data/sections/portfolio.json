@@ -108,6 +108,7 @@
                     },
                     "locales": {
                         "es": {
+                            "title": "TaskMaster",
                             "text": "Una app de productividad con todas las funciones, desarrollada con <b>React Native</b>, que permite a los usuarios organizar tareas, notas y proyectos en varios dispositivos. Ofrece <b>sincronización en la nube</b>, interfaz intuitiva y características de colaboración.",
                             "tags": ["React", "Organización", "Notas"]
                         }
