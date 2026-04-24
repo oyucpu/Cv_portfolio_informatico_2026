@@ -1,5 +1,5 @@
 {
-    "name": "Mark Choi",
+    "name": "Antonio Oyuela",
 
     "profilePictureUrl": "images/pictures/profile-picture.jpg",
     "resumePdfUrl": "",
@@ -10,9 +10,9 @@
 
     "locales": {
         "es": {
-            "localized_name": "Mark Choi",
-            "localized_name_stylized": " [[Mark {{Choi}}]]",
-            "status_message_available_for_freelance": "¡Disponible para freelance!",
+            "localized_name": "Antonio Oyuela",
+            "localized_name_stylized": " [[Antonio {{Oyuela}}]]",
+            "status_message_available_for_freelance": "¡Disponible para trabajar!",
             "roles": [
                 "Desarrollador Backend",
                 "Desarrollador Frontend",
