@@ -45,7 +45,7 @@
                     "id": 1,
                     "faIcon": "fa-solid fa-phone",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "+1 (123) 456-7890",
+                    "label": "628 199 112",
                     "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
                     "copyToClipboardButton": true,
                     "locales": {
@@ -56,8 +56,8 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "mark.choi@email.com",
-                    "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
+                    "label": "antonio.oyuela.dev@gmail.com",
+                    "link": {"href": "mailto:antonio.oyuela.dev@gmail.com", "tooltipString": "email_me"},
                     "copyToClipboardButton": true,
                     "locales": {
                         "es": {"title": "E-mail"}
@@ -67,8 +67,8 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
+                    "label": "@antoniooyuelasanchez",
+                    "link": {"href": "https://linkedin.com/in/antonio-oyuela-sánchez-0a3185141/", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {"title": "LinkedIn"}
@@ -78,8 +78,8 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Mark Choi",
-                    "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
+                    "label": "Antonio Oyuela",
+                    "link": {"href": "https://facebook.com/antonio.osanchez.33", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {"title": "Facebook"}
@@ -89,8 +89,8 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@codingmark",
-                    "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
+                    "label": "@antoniooyuelasanchez",
+                    "link": {"href": "https://www.instagram.com/antoniooyuelasanchez/", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {"title": "Instagram"}
@@ -100,8 +100,8 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "label": "@antoniooyuela33",
+                    "link": {"href": "https://tiktok.com/@antoniooyuela33", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {"title": "TikTok"}
