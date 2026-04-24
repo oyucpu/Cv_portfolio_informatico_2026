@@ -38,7 +38,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "text": "Estrellas en GitHub"
+                            "text": ""
                         }
                     }
                 },
@@ -50,7 +50,7 @@
                     "locales": {
                         "es": {
                             "title": "",
-                            "text": "Países Visitados"
+                            "text": ""
                         }
                     }
                 },
@@ -62,18 +62,18 @@
                     "locales": {
                         "es": {
                             "title": "",
-                            "text": "Proyectos de Código Abierto"
+                            "text": ""
                         }
                     }
                 },
                 {
                     "id": 5,
                     "img": null,
-                    "faIcon": "fa-solid fa-coffee",
+                    "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "text": "Cafés Consumidos"
+                            "text": ""
                         }
                     }
                 },
@@ -86,7 +86,7 @@
 
                         "es": {
                             "title": "",
-                            "text": "Líneas de código"
+                            "text": ""
                         }
                     }
                 },
