@@ -23,7 +23,7 @@
                 }
             },
             "settings": {
-                "categorize_by": ["category_portfolio_web", "category_web", "category_utilities"],
+                "categorize_by": ["category_portfolio_web", "category_ilustración", "category_utilities"],
                 "order_items_by": "id",
                 "order_items_sort": "asc"
             },
@@ -74,7 +74,7 @@
                     "locales": {
                         "es": {
                             "title": "Portfolio_Terminal",
-                            "text": "Una terminal construido con <b>HTML, CSS y JS</b>, que ofrece comunicación eficiente con el usuario y <b>te da información</b>.",
+                            "text": "Una terminal construida con <b>HTML, CSS y JS</b>, que ofrece comunicación eficiente con el usuario y <b>te da información</b>.",
                             "tags": ["Porfolio", "Web", "Habilidades"]
                         }
                     }
