@@ -19,11 +19,11 @@
                     "category_all": "Todo",
                     "category_portfolio_web": "Portfolio Web",
                     "category_ilustración": "Ilustraciones",
-                    "category_utilities": "Utilidades"
+                    "category_utilities": ""
                 }
             },
             "settings": {
-                "categorize_by": ["category_portfolio_web", "category_ilustración", "category_utilities"],
+                "categorize_by": ["category_portfolio_web", "category_ilustración"],
                 "order_items_by": "id",
                 "order_items_sort": "asc"
             },
