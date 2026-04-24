@@ -71,7 +71,7 @@
             "id": 3,
             "component": "ArticleTestimonials",
             "locales": {
-                "es": {"title": "Testimonios de {{clientes}}"}
+                "es": {"title": "Mis {{Certificados}}"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -80,42 +80,42 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Anita Bath",
-                    "link": {"href": "https://linkedin.com", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-female-1.png",
+                    "label": "",
+                    "link": {"href": "", "tooltipString": "open_website"},
+                    "img": "",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "title": "CEO en [[SalesForce]]",
-                            "text": "Trabajar con Mark fue una [[experiencia transformadora]]. Su gran habilidad para programar y su espíritu colaborativo mejoraron el proyecto y nos devolvieron la motivación y el propósito."
+                            "title": "",
+                            "text": ""
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "label": "Lou Natic",
-                    "link": {"href": "https://github.com", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-male-1.png",
+                    "label": "",
+                    "link": {"href":"", "tooltipString": "open_website"},
+                    "img": "",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "title": "Desarrollador Principal en [[GitHub]]",
-                            "text": "Tener a Mark fue un recurso invaluable. Sus [[profundos conocimientos y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
+                            "title": "",
+                            "text": ""
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "label": "Paige Turner",
+                    "label": "",
                     "link": {"href": "", "tooltipString": ""},
-                    "img": "images/pictures/testimonial-person-female-2.png",
+                    "img": "",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "title": "Directora General en [[Dingga]]",
+                            "title": "",
                             "text": "Colaborar con Mark fue un verdadero [[punto de inflexión]]. Su [[gran experiencia técnica]], creatividad y mentalidad proactiva fueron absolutamente invaluables para nuestro equipo."
                         }
                     }
