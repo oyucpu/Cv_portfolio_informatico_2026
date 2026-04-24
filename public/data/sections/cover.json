@@ -29,7 +29,7 @@
                 },
                 {
                     "id": 2,
-                    "label": "antonio.oyuela@dev.com",
+                    "label": "antonio.oyuela.dev@gmail.com",
                     "link": {"href": "mailto:antonio.oyuela.dev@gmail.com", "tooltipString": "email_me"},
                     "faIcon": "fa-regular fa-envelope"
                 },
