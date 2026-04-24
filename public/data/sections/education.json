@@ -235,24 +235,6 @@
             "month": 6
           },
           "locales": {
-            "en": {
-                  "title": "Professional Certificate in Operation of Voice and Data Communication Systems",
-                  "province": "Madrid (Madrid)",
-                  "country": "Spain",
-                  "institution": "Grupo COLÓN",
-                  "text": "Training focused on artistic illustration techniques, visual creativity, and the development of graphic projects in both traditional and digital formats.",
-                  "list": [
-                      "Fundamentals of artistic drawing and composition",
-                      "Color theory and application in illustration",
-                      "Creation of characters and visual storytelling",
-                      "Digital illustration using graphic design software",
-                      "Traditional illustration techniques (ink, watercolor, pencil)",
-                      "Development of editorial and commercial illustration projects",
-                      "Use of typography and layout in visual compositions",
-                      "Preparation of final artwork for print and digital media"
-    ],
-            "tags": ["Illustration", "Digital Art", "Drawing", "Creative Design", "Visual Communication", "Character Design", "Editorial Illustration", "Graphic Arts"]
-},
             "es": {
               "title": "{{Certificado de Profesionalidad}} en Ilustración",
               "province": "Madrid (Madrid)",
@@ -290,24 +272,6 @@
             "month": 4
           },
           "locales": {
-            "en": {
-                "title": "Professional Certificate in Assembly and Repair of Computer Systems",
-                "province": "Madrid (Getafe)",
-                "country": "Spain",
-                "institution": "Centro Tecnológico de Getafe",
-                "text": "Training focused on the assembly, maintenance, and repair of computer equipment, as well as fault diagnosis and technical support.",
-                "list": [
-                    "Assembly and installation of computer equipment",
-                    "Diagnosis and repair of hardware failures",
-                    "Replacement and upgrading of components",
-                    "Installation and configuration of operating systems",
-                    "Preventive and corrective maintenance of equipment",
-                    "Management of peripherals and external devices",
-                    "Troubleshooting technical issues",
-                    "User technical support"
-    ],
-    "tags": ["Hardware", "Microcomputing", "IT Maintenance", "Computer Repair", "Technical Support", "Fault Diagnosis", "Operating Systems", "Peripherals"]
-            },
             "es": {
               "title": "{{Certificado de Profesionalidad}} en Montaje y Reparación de Sistemas Informáticos",
               "province": "Madrid (Getafe)",
