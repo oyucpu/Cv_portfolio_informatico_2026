@@ -17,13 +17,13 @@
             "locales": {
                 "es": {
                     "category_all": "Todo",
-                    "category_apps": "Apps",
+                    "category_portfolio_web": "Portfolios Webs",
                     "category_web": "Web",
                     "category_utilities": "Utilidades"
                 }
             },
             "settings": {
-                "categorize_by": ["category_apps", "category_web", "category_utilities"],
+                "categorize_by": ["category_portfolio_web", "category_web", "category_utilities"],
                 "order_items_by": "id",
                 "order_items_sort": "asc"
             },
@@ -59,13 +59,13 @@
                 },
                 {
                     "id": 2,
-                    "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-7.png",
+                    "categoryId": "category_portfolio_web",
+                    "img": "images/pictures/portfolio-po.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
+                            {"href": "https://oyucpu.github.io/", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
                             {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
                         ],
                         "screenshots": [
@@ -89,7 +89,7 @@
                 },
                 {
                     "id": 3,
-                    "categoryId": "category_apps",
+                    "categoryId": "category_portfolio_web",
                     "img": "images/pictures/portfolio-project-logo-6.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
