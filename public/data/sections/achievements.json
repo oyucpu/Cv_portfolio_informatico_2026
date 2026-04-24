@@ -15,7 +15,7 @@
             "id": 1,
             "component": "ArticleCards",
             "locales": {
-                "es": { "title": "Certificaciones" }
+                "es": { "title": " Mis futuras Certificaciones" }
             },
             "settings": {
                 "order_items_by": "id",
