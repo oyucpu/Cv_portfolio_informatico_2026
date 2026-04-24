@@ -122,15 +122,15 @@
                 },
                 {
                     "id": 4,
-                    "label": "Chris P. Bacon",
-                    "link": {"href": "https://dribbble.com", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-male-2.png",
+                    "label": "",
+                    "link": {"href": "", "tooltipString": "open_website"},
+                    "img": "",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "es": {
-                            "title": "Director Creativo en [[Dribbble]]",
-                            "text": "La [[atención al detalle]] y el [[pensamiento innovador]] de Mark Choi aportaron una perspectiva fresca a todo nuestro proceso de diseño. ¡Simplemente increíble!"
+                            "title": "",
+                            "text": ""
                         }
                     }
                 }
@@ -185,8 +185,8 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {
-                            "title": "{{Inversión}} y Finanzas",
-                            "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                            "title": "",
+                            "text": "Aprendiendo nuevas habilidades."
                         }
                     }
                 },
@@ -221,15 +221,15 @@
                 },
                 {
                     "id": 6,
-                    "faIcon": "fa-solid fa-drum-steelpan",
+                    "faIcon": "fa-solid fa-headphones",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
                     "locales": {
                         "es": {
-                            "title": "Tocar {{batería}}",
-                            "text": "Explorando diferentes géneros y mejorando mis habilidades."
+                            "title": "Música y Podcasts",
+                            "text": "Disfrutamiento de buena música y podcasts."
                         }
                     }
                 }
