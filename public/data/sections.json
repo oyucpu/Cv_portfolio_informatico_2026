@@ -36,12 +36,13 @@
             "jsonPath": "/data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"
         },
-       /*{
-            "id": "updates",
-            "categoryId": "more",
-            "jsonPath": "/data/sections/updates.json",
-            "faIcon": "fa-solid fa-rss"
-       },*/
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/data/sections/skills.json",
+            "faIcon": "fa-solid fa-tools"
+        },
+
         {
             "id": "contact",
             "categoryId": "more",
