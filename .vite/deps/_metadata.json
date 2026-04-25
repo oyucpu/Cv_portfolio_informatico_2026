@@ -1,0 +1,88 @@
+{
+  "hash": "fd2b1f71",
+  "configHash": "87de638b",
+  "lockfileHash": "66181d58",
+  "browserHash": "2a0bb22f",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "3b8de7a9",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "047a566a",
+      "needsInterop": true
+    },
+    "@emailjs/browser": {
+      "src": "../../node_modules/@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "c0773e8b",
+      "needsInterop": false
+    },
+    "swiper/react": {
+      "src": "../../node_modules/swiper/swiper-react.mjs",
+      "file": "swiper_react.js",
+      "fileHash": "4412fd85",
+      "needsInterop": false
+    },
+    "swiper/modules": {
+      "src": "../../node_modules/swiper/modules/index.mjs",
+      "file": "swiper_modules.js",
+      "fileHash": "fe93a258",
+      "needsInterop": false
+    },
+    "react-bootstrap": {
+      "src": "../../node_modules/react-bootstrap/esm/index.js",
+      "file": "react-bootstrap.js",
+      "fileHash": "814deb13",
+      "needsInterop": false
+    },
+    "bootstrap/js/src/modal": {
+      "src": "../../node_modules/bootstrap/js/src/modal.js",
+      "file": "bootstrap_js_src_modal.js",
+      "fileHash": "0e900356",
+      "needsInterop": false
+    },
+    "smooth-scrollbar": {
+      "src": "../../node_modules/smooth-scrollbar/index.js",
+      "file": "smooth-scrollbar.js",
+      "fileHash": "4c1be914",
+      "needsInterop": false
+    },
+    "smooth-scrollbar/plugins/overscroll": {
+      "src": "../../node_modules/smooth-scrollbar/plugins/overscroll/index.js",
+      "file": "smooth-scrollbar_plugins_overscroll.js",
+      "fileHash": "670bc843",
+      "needsInterop": false
+    },
+    "react-bootstrap/InputGroupText": {
+      "src": "../../node_modules/react-bootstrap/esm/InputGroupText.js",
+      "file": "react-bootstrap_InputGroupText.js",
+      "fileHash": "0b933cf6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-XLOWEJT4": {
+      "file": "chunk-XLOWEJT4.js"
+    },
+    "chunk-UQCUDIOZ": {
+      "file": "chunk-UQCUDIOZ.js"
+    },
+    "chunk-V2X5ZORR": {
+      "file": "chunk-V2X5ZORR.js"
+    },
+    "chunk-32E4H3EV": {
+      "file": "chunk-32E4H3EV.js"
+    },
+    "chunk-KKXRJ5NB": {
+      "file": "chunk-KKXRJ5NB.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
